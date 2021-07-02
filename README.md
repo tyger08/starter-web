@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
-hey hey
+hey hey just editing for training
 
 ## Deployment
 
