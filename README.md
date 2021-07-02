@@ -15,3 +15,7 @@ Sample website with plenty of files for demos
 hey hey
 
 ## Deployment
+
+### Copyright
+
+2021 Git Training
