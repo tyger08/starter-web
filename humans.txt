@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Karl Del Pilar	karl@git.training @karlitoww
 
 # THANKS
 
